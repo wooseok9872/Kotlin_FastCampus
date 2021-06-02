@@ -1,0 +1,14 @@
+
+
+
+
+리사이클러뷰
+
+장점
+    -리스트뷰의 개선판
+        뷰홀더 포함
+    -유연하다
+       -layoutManager
+            -linear
+            -grid
+            -staaggergrid
